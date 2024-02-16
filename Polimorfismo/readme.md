@@ -1,1 +1,1 @@
-# Exemplo simples de polimorfismo
+# Exemplo simples de polimorfismo e interface
